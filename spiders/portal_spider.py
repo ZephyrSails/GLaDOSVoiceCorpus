@@ -13,6 +13,8 @@ class PortalSpider(scrapy.Spider):
                 for li in ul.xpath('li'):
                     yield {
                         'text': li.xpath('i/text()').get(),
-                        'url': li.xpath('span[1]/a/@href').get(),
+                        'file_urls': [li.xpath('span[1]/a/@href').get()],
                         'name': li.xpath('span[1]/a/@title').get(),
                     }
+
+    # def parse_wav(self, response)
