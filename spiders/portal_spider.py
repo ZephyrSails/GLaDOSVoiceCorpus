@@ -15,4 +15,5 @@ class PortalSpider(scrapy.Spider):
                         'text': li.xpath('i/text()').get(),
                         'file_urls': [li.xpath('span[1]/a/@href').get()],
                         'name': li.xpath('span[1]/a/@title').get(),
+                        'folder': 'portal'
                     }

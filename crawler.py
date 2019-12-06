@@ -13,7 +13,7 @@ def crawl(spider, args):
         'ITEM_PIPELINES': {
             'spiders.wavefile_pipeline.WaveFilesPipeline': 1,
         },
-        'FILES_STORE': args.corpus
+        'FILES_STORE': "corpus"
     })
 
     process.crawl(spider)

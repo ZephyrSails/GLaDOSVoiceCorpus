@@ -7,9 +7,10 @@ from scrapy.pipelines.files import FilesPipeline
 
 class WaveFilesPipeline(FilesPipeline):
     def file_path(self, request, response=None, info=None):
-        return "full/%s" % (request.meta.get('name'))
+        return "{}/{}".format(
+            request.meta.get('folder'), request.meta.get('name'))
 
     def get_media_requests(self, item, info):
         file_url = item['file_urls'][0]
-        meta = {'name': item['name']}
+        meta = {'name': item['name'], 'folder': item['folder']}
         yield scrapy.Request(url=file_url, meta=meta)
