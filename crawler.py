@@ -11,7 +11,7 @@ def crawl(spider, args):
     process = CrawlerProcess({
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
         'ITEM_PIPELINES': {
-            'scrapy.pipelines.files.FilesPipeline': 1,
+            'spiders.wavefile_pipeline.WaveFilesPipeline': 1,
         },
         'FILES_STORE': args.corpus
     })

@@ -16,5 +16,3 @@ class PortalSpider(scrapy.Spider):
                         'file_urls': [li.xpath('span[1]/a/@href').get()],
                         'name': li.xpath('span[1]/a/@title').get(),
                     }
-
-    # def parse_wav(self, response)
