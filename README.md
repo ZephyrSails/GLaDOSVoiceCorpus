@@ -9,3 +9,9 @@ portal2 [link to source](https://combineoverwiki.net/wiki/GLaDOS/Quotes/Portal_2
 ```
 pip3 install scrapy
 ```
+
+## Run
+```
+mkdir corpus
+python3 crawler.py --corpus portal
+```
