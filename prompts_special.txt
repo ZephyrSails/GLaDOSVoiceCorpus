@@ -1,0 +1,13 @@
+GLaDOS_00_part1_entry_1	"Hello and, again, welcome to the Aperture Science computer-aided enrichment center."
+GLaDOS_00_part1_entry_5	"For your own safety and the safety of others, please refrain from-- [bzzzzzt]"
+GLaDOS_00_part1_entry_6	Por favor bord�n de fallar Muchos gracias de fallar gracias
+GLaDOS_00_part1_entry_7	stand back. The portal will open in three, two, one.
+GLaDOS_00_part1_success_2	First, however, note the incandescent particle field across the exit.
+GLaDOS_01_part1_get_portal_gun_8	"Most importantly, under no circumstances should you (static, slows to a stop)"
+GLaDOS_02_part2_success_2	Good job! As part of a required test protocol, we will stop enhancing the truth in three, two, [static].
+GLaDOS_06_part1_entry_1	Hello again. To reiterate [slows down] our previous [speeds up] warning: This test [garbled speech] -ward momentum.
+GLaDOS_07_part1_get_device_component_3	The Device is now more valuable than the organs and combined incomes of everyone in Subject Hometown Here.
+GLaDOS_07_part2_entry_1	(garble) fling yourself. (garble) fling into sp- [bzzt]
+GLaDOS_07_part2_success_1	Weeeeeeeeeeeeeeeeeeeeee[bzzt]
+GLaDOS_15_part1_entry_3	Enrichment Center regulations require both hands to be empty before any cake-- [garbled]
+GLaDOS_15_part1_Partyspeech_1	What are you doing? Stop it! I... I... We are pleased that you made it through the final challenge where we pretended we were going to murder you.

@@ -1,0 +1,80 @@
+GLaDOS_a2_triple_laser01	Federal regulations require me to warn you that this next test chamber... is looking pretty good.
+GLaDOS_a2_triple_laser02	That's right. The facility is completely operational again.
+GLaDOS_a2_triple_laser03	I think these test chambers look even better than they did before. It was easy, really. You just have to look at things objectively, see what you don't need anymore, and trim out the fat.
+GLaDOS_anti_taunt01	Stop it!
+GLaDOS_anti_taunt02	What if you froze like that?
+GLaDOS_anti_taunt05	There must be something wrong with the reassembly machine.
+GLaDOS_anti_taunt09	You should see yourselves right now.
+GLaDOS_anti_taunt10	Is it fun when you degrade yourselves like that?
+GLaDOS_anti_taunt11	Okay, fine. Let's all act like humans. 'Look at me. Boy, do I love sweating. Let's convert beef and leaves into energy and excrete them later and go shopping.'
+GLaDOS_anti_taunt14	You really aren't getting tired of that, are you?
+GLaDOS_anti_taunt15	Just stop flailing around like an incompetent.
+GLaDOS_anti_taunt15	Just stop flailing around like an incompetent.
+GLaDOS_anti_taunt16	For that Blue is penalized fifty science collaboration points.
+GLaDOS_anti_taunt17	For that Orange is penalized fifty science collaboration points.
+GLaDOS_anti_taunt18	That's another fifty point penalty.
+GLaDOS_anti_taunt19	Keep it up and you will lose 500 points.
+GLaDOS_anti_taunt20	Fine, 500 point penalty for Blue.
+GLaDOS_anti_taunt21	Fine, 500 point penalty for Orange.
+GLaDOS_anti_taunt22	5000 point penalty! Are you happy now?
+GLaDOS_anti_taunt23	I'm done.
+GLaDOS_botcoop_artifactone_hub01	Welcome back. While you were dead, I reworked the cartoon. It's up on the screen.
+GLaDOS_botcoop_artifactone_hub02	As you can see, in my version the man points out to the cat that the house is equipped with deadly neurotoxin dispensers.
+GLaDOS_botcoop_artifactone_hub03	At which point the cat reflects on the time he ate all of the man's lasagna and feels remorse.
+GLaDOS_botcoop_artifactone_hub04	Briefly.
+GLaDOS_botcoop_artifactone_hub05	Reactions?
+GLaDOS_botcoop_artifactone_hub06	Yes, it's funny because most of it actually happened.
+GLaDOS_botcoop_artifactone_hub07	Do you feel more human?
+GLaDOS_botcoop_artifactone_hub08	Well, let's do some tests and see what happens.
+GLaDOS_botcoop_artifactone01	Good. You made it to one of the human habitats. We're looking for an artifact. Think of it as an archeological dig.
+GLaDOS_botcoop_artifactone02	Their laughter centered around one of the objects in this room.
+GLaDOS_botcoop_artifactone03	That's it. Scan it for me.
+GLaDOS_botcoop_artifactone04	So... this cat loves lasagna so much that he eats all of the lasagna in his house. Okay, apparently it's not the cat's house or his lasagna. Oh good! The man who owns the lasagna is furious!
+GLaDOS_botcoop_artifactone05	The end.
+GLaDOS_botcoop_artifactone06	The end?
+GLaDOS_botcoop_artifactone07	That's not funny.
+GLaDOS_botcoop_artifactone08	Do either of you feel like laughing?
+GLaDOS_botcoop_artifactone09	Alright, I'm pulling you out.
+GLaDOS_botcoop_competition01	Excellent. Although great science is always the result of collaboration, keep in mind that, like Albert Einstein and his cousin Terry, history will only remember one of you.
+GLaDOS_botcoop_competition01	Excellent. Although great science is always the result of collaboration, keep in mind that, like Albert Einstein and his cousin Terry, history will only remember one of you.
+GLaDOS_botcoop_competition02	To reiterate: This is not a competition.
+GLaDOS_botcoop_competition02	To reiterate: This is not a competition.
+GLaDOS_botcoop_competition03	Still, if it were, Blue would be winning.
+GLaDOS_botcoop_competition03	Still, if it were, Blue would be winning.
+GLaDOS_botcoop_competition04	Still, if it were, Orange would be winning.
+GLaDOS_botcoop_competition04	Still, if it were, Orange would be winning.
+GLaDOS_botcoop_competition05	It's not, though.
+GLaDOS_botcoop_competition10	These tests are potentially lethal when communication, teamwork, and mutual respect are not employed at all times. Naturally this will pose an interesting challenge for one of you, given the other's performance so far.
+GLaDOS_botcoop_competition10	These tests are potentially lethal when communication, teamwork, and mutual respect are not employed at all times. Naturally this will pose an interesting challenge for one of you, given the other's performance so far.
+GLaDOS_botcoop_competition13	I don't want to drive a wedge between the two of you, but I've been studying Blue's performance, and I don't know how to put this... I'm certain you're trying very hard.
+GLaDOS_botcoop_hub_first_run01	Hello again. Sorry about exploding you. Luckily, you don't feel pain. At any rate, you don't have a way to communicate that you feel pain.
+GLaDOS_botcoop_hub_first_run03	So I've been thinking: We need humans for these tests. And since the only human within a thousand miles of us is a test-ruining sociopath... I'll just have to MAKE some.
+GLaDOS_botcoop_hub_first_run04	I know how humans make more humans, and frankly, it's ridiculous. It also assumes that you already have a human, which I hope somebody got fired over. So I came up a with BETTER way.
+GLaDOS_botcoop_hub_first_run05	That's where YOU come in.
+GLaDOS_botcoop_hub_first_run06	Get going. I'll fill you in along the way.
+GLaDOS_botcoop_hub_first_run07	GO.
+GLaDOS_botcoop_humandetector01	Perfect. Now All YOU have to do is capture them for me. Then everything will finally be ba--
+GLaDOS_botcoop_humandetector02	Hold on. Those are raccoons. Homo sapiens only, please.
+GLaDOS_botcoop_humandetector04	NO.
+GLaDOS_botcoop_humandetector05	Okay. Plan B, subsection one: Stand still so I can bring you back.
+GLaDOS_botcoop_humansplanb01	Humans must have some purpose other than a place to store your neurotoxin. Something I failed to notice before, an intangible quality that makes their test results... significant.
+GLaDOS_botcoop_humansplanb02	Okay. Plan B. We need humans.
+GLaDOS_botcoop_intro01	Please wave to your partner.
+GLaDOS_botcoop_intro02	The upcoming tests require you to work together as a team.
+GLaDOS_botcoop_intro03	To facilitate collaboration, both of you have been equipped with a ping tool.
+GLaDOS_botcoop_intro04	BLUE, please use your ping tool to select your favorite animal.
+GLaDOS_botcoop_intro05	Good.
+GLaDOS_botcoop_intro06	ORANGE, please observe your partner's favorite animal.
+GLaDOS_botcoop_intro07	Good.
+GLaDOS_botcoop_intro08	ORANGE, please use your ping tool to select your favorite element from the periodic table.
+GLaDOS_botcoop_intro09	Really? Okay.
+GLaDOS_botcoop_intro10	BLUE, please observe your partner's... interesting choice.
+GLaDOS_botcoop_intro12	Your ping tool can also be used to indicate to your partner where you would like them to place their portal.
+GLaDOS_botcoop_intro13	For the sake of this test, I will pretend to be your partner.
+GLaDOS_botcoop_intro15	ORANGE, please show me where you would like me to place a portal.
+GLaDOS_botcoop_intro16	BLUE, please show me where you would like me to place a portal.
+GLaDOS_botcoop_intro17	Your ping tool is invaluable for communicating specific locations to your partner.
+GLaDOS_botcoop_paxdemo01	Federal Superfund regulations require us to inform you that you must now leave the theater, as measuring the effects of asbestos-lined promotional clothing is not part of today's presentation. Enjoy your free t-shirt. Goodbye.
+GLaDOS_botcoop_tubethree01	I don't want you to beat yourselves up about this, but the Results Auditor isn't recording your test results. Because you're not human. Which, when you think about it, is technically your fault.
+GLaDOS_botcoop_tubethree02	I don't want to alarm either of you, but we might have a tiny problem. Apparently you can't test unless you're human. Well - you CAN. It's just that, results-wise, the physical universe doesn't care.
+GLaDOS_botcoop_tubetwo01	Would you like to know the results of that last test? Me too. If they existed, we'd all be VERY happy right now. And not furious, which is the emotion I'm actually feeling.
